@@ -1,0 +1,57 @@
+body{
+    background: url(main-background.jpg) no-repeat;
+    background-size: cover;
+}
+.container
+{
+    margin: auto;
+    width: 600px;
+    height: 780px;
+    background-color: bisque;
+    border-radius: 6%;
+    background: url(f-background.jpg) no-repeat;
+    background-size: cover;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input[type=text] {
+    border: none;
+    border-bottom: 2px solid red;
+    height: 25px;
+    border-radius: 5%;
+  }
+
+  .text0{
+      text-align: center;
+      padding-top: 3%;
+  }
+
+  .text1{
+      font-size: 25px;
+  }
+
+  .text2{
+    font-size: 25px;
+}
+
+  .main{
+      margin: 5%;
+  }
+
+  .boxes{
+      height: 25px;
+  }
+
+  .btn1{
+    height: 25px;
+    border-radius: 10%;
+  }
+
+  .btn2{
+      margin: auto;
+      position: relative;
+      left: 45%;
+      height: 30px;
+      width: 75px;
+      border-radius: 10%;
+  }
